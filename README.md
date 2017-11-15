@@ -14,4 +14,4 @@ https://github.com/yomete/pusher-auth0
 4. Then run `yarn start` to get the app up and running.
 
 
-**Note: Had changed some things from the original to get it working for me as the guide didn't work perfectly**
+>Note: Had changed some things from the original to get it working for me as the guide didn't work perfectly
